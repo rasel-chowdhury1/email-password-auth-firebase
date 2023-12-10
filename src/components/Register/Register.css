@@ -1,14 +1,14 @@
-.register{
+.form{
     text-align: center;
 }
 
-.register input{
+.form input{
      padding: 10px;
      margin: 10px;
      border-radius: 5px;
 }
 
-.register button{
+.form button{
     padding: 10px 20px;
     border: 2px solid yellowgreen;
     border-radius: 10px;
